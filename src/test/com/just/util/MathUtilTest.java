@@ -13,7 +13,6 @@ import java.util.Map;
  * @create:2016-09-21 22:01
  */
 public class MathUtilTest {
-    //@Test
     public void testEval(){
         String expression = "0>a";
         String expression1="0<=a<10";
