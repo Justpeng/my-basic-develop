@@ -99,6 +99,13 @@
   <!--架包依赖 start-->
 
   <dependencies>
+
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.6</version>
+      <scope>provided</scope>
+    </dependency>
     <!-- ############################################################### Spring 相关包 start ############################################################### -->
     <!--spring 源码包下载地址：https://github.com/spring-projects/spring-framework/releases-->
     <!--http://takeme.iteye.com/blog/1977585-->
