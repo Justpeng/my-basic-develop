@@ -90,9 +90,6 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 
-    <hibernate-validator.version>5.1.1.final</hibernate-validator.version>
-
-
   </properties>
   <!--版本变量设置 end-->
 
@@ -325,11 +322,6 @@
       <version>${commons-lang3.version}</version>
     </dependency>
 
-    <dependency>
-      <groupId>org.hibernate</groupId>
-      <artifactId>hibernate-validator</artifactId>
-      <version>${hibernate-validator.version}</version>
-    </dependency>
 
 
 
